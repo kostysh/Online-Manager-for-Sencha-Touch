@@ -39,6 +39,10 @@ Installing:
 
 Usage:  
 ======   
+- Configure path to online.php:   
+<!-- language: lang-js -->
+        
+        OnlineManager.setUrl('[path/to]/online.php');          
 - Configure OnlineManager:  
 <!-- language: lang-js -->
         
