@@ -64,3 +64,6 @@ Usage:
         
         OnlineManager.stop();
 
+Online demo:
+============
+http://mindsaur.com/demo/online/
